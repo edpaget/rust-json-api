@@ -1,0 +1,8 @@
+[package]
+
+name = "rust-json-api"
+version = "0.0.1"
+authors = ["Edward Paget <edward@cassetteta.pe>"]
+
+[dependencies]
+hyper = "0.3.6"
